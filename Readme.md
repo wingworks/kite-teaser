@@ -1,17 +1,16 @@
 # Learn to sew a kite #
-Improve your sewing skills with this kite sewing pattern composed of:
-* 4 sail panels
-* 6 leading edge segments
-* 3 strut segments
-* 2 bridle attachment points
+This pattern is intended to improve your sewing skills.
+You can not use this kite for kitesurfing, it will not even fly!
 
-CAUTION: This is only a part of a kite!
+The diameters of the leading edge and the struts correspond approx. to a kite in size 9(sqm). 
+But the segments are shorter and the sail is smaller so that you need a lot less dacron and spinnaker.
 
-Version 0.1 [Releases](https://github.com/wingworks/kite-teaser/releases)
+![quad-view](https://github.com/wingworks/kite-teaser/blob/master/quad_view.png)
 
-Required material:
-* 1 x 1.4m Dacron (170g)
-* 1 x 1.5m Spinnaker (50-60g)
-* Some Cordura
+![seam](https://github.com/wingworks/kite-teaser/blob/master/seam.png)
+
+![panels](https://github.com/wingworks/kite-teaser/blob/master/panels.png)
+
+[Releases](https://github.com/wingworks/kite-teaser/releases)
 
 Manual: [Kite Bauanleitung (german only)](http://www.wingworks.de/bauanleitungen/tube-kite/bauanleitung)
