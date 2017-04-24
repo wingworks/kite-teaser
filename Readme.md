@@ -1,9 +1,9 @@
 # Learn to sew a kite #
 This pattern is intended to improve your sewing skills.
-You can not use this kite for kitesurfing, it will not even fly!
+You can not use this kite for kitesurfing, it will not fly!
 
 The diameters of the leading edge and the struts correspond approx. to a kite in size 9(sqm). 
-But the segments are shorter and the sail is smaller so that you need a lot less dacron and spinnaker.
+Sail panels and segments are shorter so you need less dacron and spinnaker than for a "real" kite.
 
 ![quad-view](https://github.com/wingworks/kite-teaser/blob/master/quad_view.png)
 
